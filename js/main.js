@@ -68,10 +68,10 @@
             seconds = "0" + seconds;
         }
 
-        $("#cdt-days").html(days + "<span>-Days-</span>");
-        $("#cdt-hours").html(hours + "<span>-Hours-</span>");
-        $("#cdt-minutes").html(minutes + "<span>-Mins-</span>");
-        $("#cdt-seconds").html(seconds + "<span>-Secs-</span>");
+        $("#cdt-days").html(days + "<span>-Dias-</span>");
+        $("#cdt-hours").html(hours + "<span>-Horas-</span>");
+        $("#cdt-minutes").html(minutes + "<span>-Minutos-</span>");
+        $("#cdt-seconds").html(seconds + "<span>-Segundos-</span>");
 
     }
 

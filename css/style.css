@@ -180,7 +180,7 @@ img.animated.pulse {
 /*** Deal ***/
 .deal {
     position: relative;
-    background: url(../img/bg.png) center center no-repeat;
+    /* background: url(../img/bg.png) center center no-repeat; */
     background-size: cover;
 }
 
@@ -191,7 +191,7 @@ img.animated.pulse {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(255, 255, 255, .1);
+    /* background: rgba(255, 255, 255, .1); */
     clip-path: polygon(66% 0, 100% 0, 100% 100%, 33% 100%);
 }
 
